@@ -13,7 +13,7 @@ export default function Home() {
         <div className="container flex h-16 items-center justify-between">
           <Link href="/" className="flex items-center gap-2 font-semibold">
             <Code2 className="h-5 w-5" />
-            <span>222222Jessi Louise</span>
+            <span>new name  Louise</span>
           </Link>
           <nav className="hidden md:flex gap-6">
             <Link href="#about" className="text-sm font-medium hover:text-primary">
