@@ -46,7 +46,7 @@ export default function Home() {
                     Front-End Developer
                   </Badge>
                   <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl">
-                    Jessi Louise
+                   22222222 Jessi Louise
                   </h1>
                   <p className="max-w-[600px] text-muted-foreground md:text-xl">
                     I build beautiful, responsive, and user-friendly web experiences with modern technologies.
